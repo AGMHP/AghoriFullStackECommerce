@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 16.001 16" style="enable-background:new 0 0 16.001 16;" xml:space="preserve">
+<g id="Layer_12">
+	<path style="fill:#95CC29;" d="M6,3C3.791,3,2,6,2,6s1.791,3,4,3c2.209,0,4-3,4-3S8.209,3,6,3z M6,8C4.895,8,4,7.105,4,6
+		s0.895-2,2-2c1.105,0,2,0.895,2,2S7.105,8,6,8z"/>
+	<circle style="fill:#95CC29;" cx="6" cy="6" r="1"/>
+	<g>
+		<circle style="fill:none;stroke:#666666;stroke-miterlimit:10;" cx="6" cy="6" r="5.5"/>
+		<path style="fill:none;stroke:#666666;stroke-miterlimit:10;" d="M11.354,11.354L11.354,11.354c0.39-0.39,1.024-0.39,1.414,0
+			l2.379,2.379c0.39,0.39,0.39,1.024,0,1.414l0,0c-0.39,0.39-1.024,0.39-1.414,0l-2.379-2.379
+			C10.963,12.377,10.963,11.744,11.354,11.354z"/>
+		<line style="fill:none;stroke:#666666;stroke-miterlimit:10;" x1="11.354" y1="11.354" x2="9.889" y2="9.889"/>
+	</g>
+	<rect x="0.001" style="fill:none;" width="16" height="16"/>
+</g>
+<g id="Layer_1">
+</g>
+</svg>
